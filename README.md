@@ -22,7 +22,7 @@ This repository is for storing files, homeworks and my progress throughout the c
 |---------------------------------|------------------|------------------|----------|-----|
 | 1. Introduction & Prerequisites |  16 January 2023 | 30 January  2023 | 2 weeks  | ✅ |
 | 2. Workflow Orchestration       |  30 January 2023 | 06 February 2023 | 1 week   | ✅ |
-| 3. Data Warehouse               | 06 February 2023 | 13 February 2023 | 1 week   | ⏳ |
+| 3. Data Warehouse               | 06 February 2023 | 13 February 2023 | 1 week   | ✅ |
 | 4. Analytics Engineering        | 13 February 2023 | 20 February 2023 | 1 week   | ⏳ |
 | 5. Batch processing             | 20 February 2023 | 27 February 2023 | 1 week   | ⏳ |
 | 6. Streaming                    | 27 February 2023 |    06 March 2023 | 1 week   | ⏳ |
