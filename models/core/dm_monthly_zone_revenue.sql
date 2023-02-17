@@ -9,7 +9,6 @@ with trips_data as (
     --date_trunc('month', pickup_datetime) as revenue_month, 
     --Note: For BQ use instead: 
     date_trunc(pickup_datetime, month) as revenue_month, 
-
     service_type, 
 
     -- Revenue calculation 
