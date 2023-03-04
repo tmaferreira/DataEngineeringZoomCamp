@@ -135,6 +135,11 @@ dmypy.json
 # Big files
 *.parquet
 *.json
+*.snappy.parquet
+*.snappy.parquet.crc
+
+*_SUCCESS
+*_SUCCESS.crc
 
 # DB files
 *.db
